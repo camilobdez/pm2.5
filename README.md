@@ -23,6 +23,8 @@ Para empezar con el predictor, debes seguir estos pasos:
 3. Intalar las dependencias necesarias:
     ```bash
     npm install
+    npm install react-router-dom
+    npm install axios
     ```
 4. Navegar al directorio backend e inicializar el servidor:
     ```bash
