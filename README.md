@@ -6,7 +6,7 @@ Este proyecto es un predictor de niveles de PM2.5 en Beijing basado en ciertos p
 ### Prerrequisitos
 - [Python](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/en/download/)
-- Install required libraries: `flask`, `flask_cors`, etc.
+- Instalar librerías requeridas: `flask`, `flask_cors`, etc.
 
 ### Intalación y uso
 
