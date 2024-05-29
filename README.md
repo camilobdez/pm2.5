@@ -1,4 +1,4 @@
-# PM 2.5 預測器
+# 預測器 pm2.5
 Este proyecto es un predictor de niveles de PM2.5 en Beijing basado en ciertos parámetros ambientales. Utiliza un modelo en función de la presión atmosférica, la temperatura, la humedad, la dirección y velocidad del viento, la precipitación, entre otros factores.
 
 ## Tutorial
