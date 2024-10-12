@@ -42,5 +42,5 @@ https://github.com/camilobdez/pm2.5/assets/121780547/bc5db966-4ee9-4431-bd2c-1b6
 
 ## Collaborators
 
-- [Camilo Bermúdez] (https://www.github.com/camilobdez)
-- [Luis Baena] (https://www.github.com/alejobaenam)
+- [Camilo Bermúdez](https://www.github.com/camilobdez)
+- [Luis Baena](https://www.github.com/alejobaenam)
