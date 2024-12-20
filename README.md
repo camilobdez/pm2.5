@@ -1,37 +1,37 @@
 # 預測器 pm2.5
-Este proyecto es un predictor de niveles de PM2.5 en Beijing basado en ciertos parámetros ambientales. Utiliza un modelo en función de la presión atmosférica, la temperatura, la humedad, la dirección y velocidad del viento, la precipitación, entre otros factores.
+This project is a predictor of PM2.5 levels in Beijing based on specific environmental parameters. It uses a model that factors in atmospheric pressure, temperature, humidity, wind direction and speed, precipitation, and other variables.
 
 ## Tutorial
 
-### Prerrequisitos
+### Prerequisites
 - [Python](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/en/download/)
-- Instalar librerías requeridas: `flask`, `flask_cors`, etc.
+- Install the required libraries: `flask`, `flask_cors`, etc.
 
-### Intalación y uso
+### Installation and Usage
 
-Para empezar con el predictor, debes seguir estos pasos:
+To start using the predictor, follow these steps:
 
-1. Clonar el repositorio:
+1. Clone the repository:
     ```bash
     git clone https://github.com/camilobdez/pm2.5.git
     ```
-2. Navegar al directorio del proyecto:
+2. Navigate to the project directory:
     ```bash
     cd pm2.5/despliegue
     ```
-3. Intalar las dependencias necesarias:
+3. Install the necessary dependencies:
     ```bash
     npm install
     npm install react-router-dom
     npm install axios
     ```
-4. Navegar al directorio backend e inicializar el servidor:
+4. Navigate to the backend directory and start the server:
     ```bash
     cd despliegue/backend
     python app.py
     ```
-5. Correr la aplicación:
+5. Run the application:
     ```bash
     cd despliegue
     npm start
